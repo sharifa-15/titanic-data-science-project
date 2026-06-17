@@ -22,6 +22,7 @@ It highlights how age, class, gender, and family size influenced survival outcom
 - Family size influenced survival probability in unexpected ways.  
 
 ## 📸 Dashboard Preview
+![Titanic Dashboard](titanic_dashboard.png)
 
 🔗 **View the interactive dashboard on Tableau Public:** https://public.tableau.com/app/profile/mohammad.sharifa/viz/FromrawdatatovisualstorytellingTitanicsurvivalanalysis/Dashboard1
 
